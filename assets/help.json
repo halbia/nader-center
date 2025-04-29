@@ -1,0 +1,92 @@
+{
+  "help_sections": [
+    {
+      "icon": "editor-kitchensink",
+      "title": "المنتور",
+      "links": [
+        {
+          "text": "رفع مشکل باز نشدن المنتور",
+          "url": ""
+        },
+        {
+          "text": "تنظیم هدر و فوتر دلخواه",
+          "url": "https://ghaleblake.ir/landing/docs/nader/change-header-and-footer/"
+        },
+        {
+          "text": "تغییر در صفحه پست و پروژه",
+          "url": "https://ghaleblake.ir/landing/docs/nader/single/creating-the-desired-single-page/"
+        },
+        {
+          "text": "تنظیم اطلاعات دلخواه پروژه",
+          "url": "https://ghaleblake.ir/landing/docs/nader/set-custom-fields-for-project/"
+        },
+        {
+          "text": "ساخت و تغییر آرشیو",
+          "url": "https://ghaleblake.ir/landing/docs/nader/create-archive-with-elementor/"
+        }
+      ]
+    },
+    {
+      "icon": "admin-appearance",
+      "title": "تنظیمات قالب",
+      "links": [
+        {
+          "text": "مشکل عمل نکردن تنظیمات",
+          "url": ""
+        },
+        {
+          "text": "حذف دکمه های گوشه ای سمت چپ",
+          "url": ""
+        },
+        {
+          "text": "حذف متن کپی رایت",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "icon": "cart",
+      "title": "ووکامرس",
+      "links": [
+        {
+          "text": "رفع مشکل خالی بودن سایدبار فروشگاه",
+          "url": ""
+        },
+        {
+          "text": "رفع مشکل عمل نکردن متغیرهای محصول متغیر",
+          "url": ""
+        },
+        {
+          "text": "تنظیم برگه سبد خرید/پرداخت",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "icon": "admin-tools",
+      "title": "دیگر",
+      "links": [
+        {
+          "text": "تغییر دمو یا صفحه اصلی",
+          "url": "https://ghaleblake.ir/landing/docs/nader/change-home-page/"
+        },
+        {
+          "text": "حذف سایدبار سمت راست",
+          "url": ""
+        },
+        {
+          "text": "تنظیم لوگو و Favicon",
+          "url": ""
+        },
+        {
+          "text": "بروزرسانی قالب",
+          "url": ""
+        },
+        {
+          "text": "بروزرسانی افزونه ها",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "demos": [
+    {
+      "id": "personal-1",
+      "name": "شخصی 1",
+      "description": "قالب شخصی مناسب برای رزومه و وبسایت‌های شخصی با طراحی مدرن",
+      "categories": ["personal"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2023/04/nader-1-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/",
+      "xml_url": "https://ghaleblake.ir/landing/wp-content/uploads/2025/04/demo-1.xml",
+      "widgets_url": "https://ghaleblake.ir/landing/wp-content/uploads/2025/04/demo-1-widges.json"
+    },
+    {
+      "id": "corporate-1",
+      "name": "شرکتی 1",
+      "description": "قالب شرکتی حرفه‌ای برای کسب‌وکارهای متوسط با امکانات کامل",
+      "categories": ["corporate"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2023/04/nader-2-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-2-fa"
+    },
+    {
+      "id": "personal-2",
+      "name": "شخصی 2",
+      "description": "پوسته شخصی خلاقانه برای فریلنسرها و متخصصان",
+      "categories": ["personal"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2023/04/nader-3-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-3-fa"
+    },
+    {
+      "id": "corporate-2",
+      "name": "شرکتی 2",
+      "description": "قالب سازمانی با قابلیت‌های پیشرفته مدیریت محتوا",
+      "categories": ["corporate"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2023/04/nader-4-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-4-fa"
+    },
+    {
+      "id": "corporate-3",
+      "name": "شرکتی 3",
+      "description": "پوسته تجاری با طراحی مینیمال و کاربرپسند",
+      "categories": ["corporate"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2023/04/nader-5-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-5-fa"
+    },
+    {
+      "id": "corporate-4",
+      "name": "شرکتی 4",
+      "description": "قالب شرکتی چندمنظوره با پشتیبانی از ووکامرس",
+      "categories": ["corporate"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2023/04/nader-6-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-6-fa"
+    },
+    {
+      "id": "corporate-5",
+      "name": "شرکتی 5",
+      "description": "طراحی اختصاصی برای استارتاپ‌ها و کسب‌وکارهای نوپا",
+      "categories": ["corporate"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2023/04/nader-7-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-7-fa"
+    },
+    {
+      "id": "corporate-6",
+      "name": "شرکتی 6",
+      "description": "پوسته حرفه‌ای برای شرکت‌های خدماتی",
+      "categories": ["corporate"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2023/04/nader-8-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-8-fa"
+    },
+    {
+      "id": "personal-3",
+      "name": "شخصی 3",
+      "description": "قالب شخصی با قابلیت نمایش نمونه کارها و مهارت‌ها",
+      "categories": ["personal"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2023/05/nader-8-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-9-fa"
+    },
+    {
+      "id": "personal-4",
+      "name": "شخصی 4",
+      "description": "طراحی مدرن برای وبلاگ‌نویسان و نویسندگان",
+      "categories": ["personal"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2023/05/nader-10-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-10-fa"
+    },
+    {
+      "id": "corporate-7",
+      "name": "شرکتی 7",
+      "description": "قالب شرکتی با امکانات پیشرفته سئو",
+      "categories": ["corporate"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2023/06/nader-11-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-11-fa/"
+    },
+    {
+      "id": "corporate-8",
+      "name": "شرکتی 8",
+      "description": "پوسته تجاری با قابلیت‌های چندزبانه",
+      "categories": ["corporate"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2024/02/nader-12-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-12-fa"
+    },
+    {
+      "id": "corporate-9",
+      "name": "شرکتی 9",
+      "description": "قالب شرکتی پرسرعت و بهینه‌شده",
+      "categories": ["corporate"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2024/12/nader-13-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-13-fa/"
+    },
+    {
+      "id": "personal-5",
+      "name": "شخصی 5",
+      "description": "طراحی خلاقانه برای هنرمندان و عکاسان",
+      "categories": ["personal"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2024/12/nader-14-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-14-fa"
+    },
+    {
+      "id": "personal-6",
+      "name": "شخصی 6",
+      "description": "پوسته شخصی با قابلیت فروش محصولات دیجیتال",
+      "categories": ["personal"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2025/03/nader-14-min-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-15-fa"
+    },
+    {
+      "id": "corporate-10",
+      "name": "شرکتی 10",
+      "description": "قالب سازمانی با پنل مدیریت پیشرفته",
+      "categories": ["corporate"],
+      "image": "https://ghaleblake.ir/landing/wp-content/uploads/2025/03/nader-16-min.jpg",
+      "preview_url": "https://ghaleblake.ir/wp_themes/nader/home-16-fa/"
+    }
+  ]
+}
