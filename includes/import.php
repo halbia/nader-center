@@ -4,9 +4,18 @@ defined('ABSPATH') || die();
 class Nader_Center_Import{
 
     private static $required_plugins = array(
-        'elementor/elementor.php'            => 'المنتور',
-        'advanced-custom-fields-pro/acf.php' => 'ACF Pro',
-        'woocommerce/woocommerce.php'        => 'ووکامرس'
+        'elementor/elementor.php'                                     => 'المنتور',
+        'elementor-pro/elementor-pro.php'                             => 'المنتور پرو',
+        'advanced-custom-fields-pro/acf.php'                          => 'ACF Pro',
+        'woocommerce/woocommerce.php'                                 => 'ووکامرس',
+        'wp-parsidate/wp-parsidate.php'                               => 'تاریخ پارسی',
+        'wp-postviews/wp-postviews.php'                               => 'WP Post Views',
+        'woocommerce-ajax-filters/woocommerce-filters.php'            => 'فیلترهای AJAX ووکامرس',
+        'wp-active-widgets-elementor/wp-active-widgets-elementor.php' => 'ویجت های اختصاصی نادر',
+        'polylang-pro/polylang.php'                                   => 'Polylang Pro',
+        'polylang-wc/polylang-wc.php'                                 => 'Polylang برای ووکامرس',
+        'acf-options-for-polylang/bea-acf-options-for-polylang.php'   => 'اتصال ACF به Polylang',
+        'connect-polylang-elementor/connect-polylang-elementor.php'   => 'اتصال Elementor به Polylang'
     );
 
     private static $import_steps = array(
