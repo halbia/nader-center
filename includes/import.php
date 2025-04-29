@@ -187,7 +187,7 @@ class Nader_Center_Import{
                 <div class="notice notice-error">
                     <p>برای ادامه فرآیند درون‌ریزی، باید تمام پلاگین‌های ضروری نصب و فعال باشند.</p>
                     <p>
-                        <a href="<?php echo admin_url('plugin-install.php'); ?>" class="button">
+                        <a href="<?php echo admin_url('admin.php?page=nader-plugins'); ?>" class="button">
                             رفتن به صفحه مدیریت پلاگین‌ها
                         </a>
                     </p>
