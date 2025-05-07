@@ -89,25 +89,25 @@
 }
 
 /* استایل جداول اطلاعات */
-.widefat {
+.nader-system-info .widefat {
     width: 100%;
     border-collapse: collapse;
     margin: 20px 0;
 }
 
-.widefat th {
+.nader-system-info .widefat th {
     background: #f1f1f1;
     text-align: right;
     padding: 10px;
     border: 1px solid #ddd;
 }
 
-.widefat td {
+.nader-system-info .widefat td {
     padding: 10px;
     border: 1px solid #ddd;
 }
 
-.striped tbody tr:nth-child(odd) {
+.nader-system-info .striped tbody tr:nth-child(odd) {
     background-color: #f9f9f9;
 }
 

@@ -38,7 +38,7 @@ class Nader_Center_System_Info {
         $active_plugins = get_option('active_plugins');
         
         // نمایش اطلاعات
-        echo '<div class="wrap">';
+        echo '<div class="wrap nader-system-info">';
         echo '<h1>اطلاعات سیستم مرکز نادر</h1>';
         
         // تب‌ها
